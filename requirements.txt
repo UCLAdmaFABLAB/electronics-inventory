@@ -1,0 +1,2 @@
+reportlab==5.4.1
+svglib==0.9.0

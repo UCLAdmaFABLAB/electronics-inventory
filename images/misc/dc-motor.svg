@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 120.97 72.229996"
+   xml:space="preserve"
+   sodipodi:docname="dc-motor.svg"
+   width="120.97"
+   height="72.229996"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata26"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs24" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.65555556"
+     inkscape:cx="61.39"
+     inkscape:cy="36.039993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style13">
+	.st0{fill:#FFFFFF;stroke:#010101;stroke-miterlimit:10;}
+</style><g
+     id="g19"
+     transform="translate(-154.61,-143.81)"><path
+       class="st0"
+       d="m 239.59,205.43 v -7.76 h 5.03 c 2.07,0 3.74,-1.68 3.74,-3.74 v -11.07 h 26.72 v -5.92 h -26.72 v -10.51 c 0,-2.07 -1.68,-3.74 -3.74,-3.74 h -5.03 v -8.4 c 0,-5.49 -4.49,-9.98 -9.98,-9.98 h -68.74 v 32.63 h -5.76 v 5.92 h 5.77 v 32.55 h 20.79 47.95 c 5.48,0 9.97,-4.49 9.97,-9.98 z"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#010101;stroke-miterlimit:10" /><line
+       class="st0"
+       x1="183.36"
+       y1="144.64"
+       x2="183.36"
+       y2="216.03999"
+       id="line17"
+       style="fill:#ffffff;stroke:#010101;stroke-miterlimit:10" /></g></svg>

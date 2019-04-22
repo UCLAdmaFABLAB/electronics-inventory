@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 289 144.31"
+   xml:space="preserve"
+   sodipodi:docname="arduino-mega.svg"
+   width="289"
+   height="144.31"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata33"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs31" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="0.65555556"
+     inkscape:cx="145.08"
+     inkscape:cy="72.49"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style24">
+	.st0{fill:#FFFFFF;stroke:#010101;stroke-miterlimit:10;}
+</style><polygon
+     class="st0"
+     points="309.67,108.68 316.55,115.9 316.55,142.71 323.42,149.58 323.42,240.65 316.89,246.5 316.89,251.99 52.95,251.99 52.95,243.06 47.45,243.06 47.45,219 53.29,219 53.29,164.7 35.42,164.7 35.42,134.1 52.95,134.11 52.95,108.68 "
+     id="polygon26"
+     style="fill:#ffffff;stroke:#010101;stroke-miterlimit:10"
+     transform="translate(-34.92,-108.18)" /></svg>

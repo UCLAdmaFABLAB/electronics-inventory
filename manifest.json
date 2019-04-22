@@ -1,0 +1,651 @@
+{
+  "drawers": [
+    "microcontrollers",
+    "soc",
+    "shields",
+    "components",
+    "accessories",
+    "misc"
+  ],
+  "inventory": [
+    {
+      "title": "12V 30A 360W DC",
+      "subtitle": "Power Supply",
+      "image": "./accessories/12v-30a-dc.svg",
+      "type": "accessories",
+      "size": "xlh",
+      "quantity": 2
+    },
+    {
+      "title": "12V 5A LED Driver DC",
+      "subtitle": "Power Supply",
+      "image": "./accessories/12v-5a-dc.svg",
+      "size": "large",
+      "type": "accessories",
+      "quantity": 1
+    },
+    {
+      "title": "24V 4.5A 100W DC",
+      "subtitle": "Power Supply",
+      "image": "./accessories/24v-4.5a-dc.svg",
+      "size": "xlv",
+      "type": "accessories",
+      "quantity": 2
+    },
+    {
+      "title": "4GB SDHC Card",
+      "image": "./accessories/4gb-sdhc.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 1
+    },
+    {
+      "title": "8.4V 1A AC-DC",
+      "subtitle": "Power Supply",
+      "image": "./accessories/8.4v-1a-dc.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 1
+    },
+    {
+      "title": "9V 1A AC-DC",
+      "subtitle": "Power Supply",
+      "image": "./accessories/9v-1a-dc.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 3
+    },
+    {
+      "title": "USB A to B Cable",
+      "image": "./accessories/usb-a-b.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 1
+    },
+    {
+      "title": "USB C to A Adapter",
+      "image": "./accessories/usb-c-a.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 4
+    },
+    {
+      "title": "USB C to Micro B Cable",
+      "image": "./accessories/usb-c-microb.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 4
+    },
+    {
+      "title": "USB A Extension Cable",
+      "image": "./accessories/usb-extension.svg",
+      "size": "small",
+      "type": "accessories",
+      "quantity": 1
+    },
+    {
+      "title": "500mAh Li-Ion Poly Battery",
+      "image": "components/500mah-li-ion.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Camera V2 8MP for Raspi",
+      "image": "components/camera-v2-raspi.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Circular Soft Pot",
+      "image": "components/circular-soft-pot.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 4
+    },
+    {
+      "title": "Conductive Rubber Cord",
+      "image": "./components/conductive-rubber-cord.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "DRV8833 Motor Driver",
+      "image": "./components/drv8833-motor-driver.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Temperature Sensor",
+      "subtitle": "DS18B20",
+      "image": "./components/ds18b20-digital-temperature.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 2
+    },
+    {
+      "title": "Extra Long FSR",
+      "image": "./components/extra-long-fsr.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Flex Sensor",
+      "image": "./components/flex-sensor.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Haptic Motor Controller",
+      "subtitle": "DRV2605L",
+      "image": "./components/haptic-motor-controller.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 4
+    },
+    {
+      "title": "HC-04 Ultrasonic",
+      "subtitle": "Proximity Sensor",
+      "image": "./components/hc04-ultrasonic.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "IR Emitter/Detector",
+      "image": "./components/ir-emitter-detector.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Linear Soft Pot",
+      "image": "./components/linear-soft-pot.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 3
+    },
+    {
+      "title": "Low Power Timer",
+      "image": "./components/low-power-timer.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "MaxSonar Range Finder",
+      "image": "./components/maxsonar-range-finder.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "MicroLipo USB Charger",
+      "image": "./components/microlipo-usb-charger.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Night Vision Camera",
+      "subtitle": "for Raspi",
+      "image": "./components/night-vision-camera-raspi.svg",
+      "size": "small",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Particle Sensor Breakout",
+      "image": "./components/particle-sensor-breakout.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Piezo Vibration Sensor",
+      "image": "./components/piezo-vibration-sensor.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "PIR Motion Sensor",
+      "image": "./components/pir-motion-sensor.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Slide Pot",
+      "image": "./components/slide-pot.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Triple-Axis Accelerometer Breakout",
+      "image": "./components/triple-axis-accelerometer.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Voltage Sensor (<25V)",
+      "image": "./components/voltage-sensor.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Adafruit Feather",
+      "subtitle": "3.3V 32u4 Basic Proto",
+      "image": "./microcontrollers/adafruit-feather.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 2
+    },
+    {
+      "title": "Adafruit FTDI Friend",
+      "image": "./microcontrollers/adafruit-ftdi-friend.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Adafruit Gemma",
+      "image": "./microcontrollers/adafruit-gemma.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 3
+    },
+    {
+      "title": "Adafruit Huzzah ESP32",
+      "image": "./microcontrollers/adafruit-huzzah-esp32.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 2
+    },
+    {
+      "title": "Adafruit Metro Mini",
+      "image": "./microcontrollers/adafruit-metro-mini.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 4
+    },
+    {
+      "title": "Arduino Nano",
+      "image": "./microcontrollers/arduino-nano.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 2
+    },
+    {
+      "title": "Arduino Pro Mini",
+      "image": "./microcontrollers/arduino-pro-mini.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Arduino Uno R3",
+      "image": "./soc/arduino-uno-r3.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 2
+    },
+    {
+      "title": "Itsy Bitsy 3V",
+      "subtitle": "32u4 with ProTrinket LiPoly Backpack",
+      "image": "./microcontrollers/itsy-bitsy-3v.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Itsy Bitsy 3V",
+      "subtitle": "32u4",
+      "image": "./microcontrollers/itsy-bitsy-3v.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Itsy Bitsy M0 Express",
+      "image": "./microcontrollers/itsy-bitsy-m0.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Teensy 3.2",
+      "image": "./microcontrollers/teensy-3.2.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 3
+    },
+    {
+      "title": "Trinket M0",
+      "image": "./microcontrollers/trinket-m0.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "Trinket Pro",
+      "subtitle": "5V ATmega 328p",
+      "image": "./microcontrollers/trinket-pro.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
+    },
+    {
+      "title": "12V Brass Solenoid Valve",
+      "image": "./misc/brass-solenoid-valve.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "DC Motors",
+      "subtitle": "(bulk)",
+      "image": "./misc/dc-motor.svg",
+      "size": "medium",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Electromagnet",
+      "subtitle": "(assortment)",
+      "image": "./misc/electromagnets.svg",
+      "size": "medium",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Gear Kit",
+      "subtitle": "reduction + rack & pinion + belt + worm drive",
+      "image": "./misc/gear-kit.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 2
+    },
+    {
+      "title": "Haptic Motor",
+      "subtitle": "(bulk)",
+      "image": "./misc/haptic-motor.svg",
+      "size": "medium",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Momentary Tactle Switch",
+      "subtitle": "(bulk)",
+      "image": "./misc/momentary-tactile-switch.svg",
+      "size": "xlh",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "NEMA 17 Stepper Motor",
+      "image": "./misc/nema17-stepper.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 2
+    },
+    {
+      "title": "AA/AAA Ni-MH Charger",
+      "image": "./misc/nimh-charger.svg",
+      "size": "xlh",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Powerswitch Tail II",
+      "image": "./misc/powerswitch-tail.svg",
+      "size": "xlh",
+      "type": "misc",
+      "quantity": 2
+    },
+    {
+      "title": "Solenoid Valve",
+      "image": "./misc/solenoid-valve.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 5
+    },
+    {
+      "title": "Solid State Relay",
+      "image": "./misc/solid-state-relay.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Standard Servo",
+      "image": "./misc/standard-servo.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "16x2 Char. Standard LCD",
+      "image": "./shields/16x2-lcd.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "2.8\" TFT Touch Screen",
+      "subtitle": "for Arduino",
+      "image": "./shields/2.8-tft-arduino.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "PiTFT 2.8\" Touchscreen",
+      "subtitle": "for Raspi",
+      "image": "./shields/2.8-tft-rpi.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "3.5\" Ultronics LCD for Raspberry Pi",
+      "image": "./shields/3.5-ultronics-lcd-rpi.svg",
+      "size": "medium",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Adafruit Motor Shield v2.3",
+      "image": "./shields/adafruit-motor-shield.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Adalogger Featherwing",
+      "image": "./shields/adalogger-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "Charliewing Featherwing",
+      "image": "./shields/charliewing-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "DC Motor Featherwing",
+      "image": "./shields/dc-motor-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "DotStar Featherwing",
+      "image": "./shields/dotstar-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "GPS Logger Shield",
+      "image": "./shields/gps-logger-shield.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Keypad + LCD Shield",
+      "subtitle": "I2C Controlled",
+      "image": "./shields/i2c-keypad-lcd.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Music Maker Shield",
+      "image": "./shields/music-maker-shield.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Music Maker Featherwing",
+      "image": "./shields/musicmaker-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 3
+    },
+    {
+      "title": "OLED Matrix Featherwing",
+      "image": "./shields/oled-matrix-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "Power Relay Featherwing",
+      "image": "./shields/power-relay-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "PWM Servo Featherwing",
+      "image": "./shields/pwm-servo-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 2
+    },
+    {
+      "title": "PWM Servo Shield B",
+      "image": "./shields/pwm-servo-shield.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "RGB Matrix Pi HAT + RTC",
+      "image": "./shields/rgb-matrix-hat.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
+      "title": "Arduino Diecimila",
+      "image": "./soc/arduino-diecimila.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 2
+    },
+    {
+      "title": "Arduino Leonardo",
+      "image": "./soc/arduino-leonardo.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Arduino MEGA 2560",
+      "image": "./soc/arduino-mega.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "ATmega 328P ICs",
+      "subtitle": "(bulk)",
+      "image": "./soc/atmega-328p.svg",
+      "size": "large",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Beaglebone Black",
+      "image": "./soc/beaglebone-black.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Intel Galileo",
+      "image": "./soc/intel-galileo.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Radxa Rock 2",
+      "image": "./soc/radxa-rock.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Raspberry Pi 1B",
+      "image": "./soc/rpi-1b.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Raspberry Pi 2B",
+      "image": "./soc/rpi-2b.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Raspberry Pi 3",
+      "image": "./soc/rpi-3.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "UDOO Quad",
+      "image": "./soc/udoo-quad.svg",
+      "size": "medium",
+      "type": "soc",
+      "quantity": 1
+    }
+  ],
+  "sizes": [
+    { "name": "tiny", "dims": [3, 2.5] },
+    { "name": "small", "dims": [3, 5] },
+    { "name": "medium", "dims": [6, 5] },
+    { "name": "large", "dims": [3, 10] },
+    { "name": "xlv", "dims": [6, 10] },
+    { "name": "xlh", "dims": [9, 5] }
+  ]
+}
