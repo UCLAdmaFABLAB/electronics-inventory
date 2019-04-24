@@ -56,7 +56,7 @@ def generate_tile(item):
 
     center = ( (canvas_size[0] - width) / 2, (canvas_size[1] - height) / 2 )
     drawing.drawOn(c, center[0], center[1])
-    yOffset = height / 2 if height > 40 else 40
+    yOffset = height / 2 + 20 if height > 40 else 40
     titleY = center[1] - yOffset
     if titleY < 15:
         titleY = 15
@@ -64,7 +64,7 @@ def generate_tile(item):
         tx = c.beginText()
         c.drawCentredString(canvas_size[0] / 2, titleY, item['subtitle'])
         titleY += 14
-    c.setFont('Helvetica', 16)
+    c.setFont('Helvetica', 15)
     c.drawCentredString(canvas_size[0] / 2, titleY, title)
     c.save()
 

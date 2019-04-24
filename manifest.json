@@ -228,7 +228,7 @@
       "quantity": 1
     },
     {
-      "title": "Triple-Axis Accelerometer Breakout",
+      "title": "Triple-Axis Accelerometer",
       "image": "./components/triple-axis-accelerometer.svg",
       "size": "tiny",
       "type": "components",
@@ -641,11 +641,11 @@
     }
   ],
   "sizes": [
-    { "name": "tiny", "dims": [3, 2.5] },
-    { "name": "small", "dims": [3, 5] },
-    { "name": "medium", "dims": [6, 5] },
-    { "name": "large", "dims": [3, 10] },
-    { "name": "xlv", "dims": [6, 10] },
-    { "name": "xlh", "dims": [9, 5] }
+    { "name": "tiny", "dims": [2.875, 2.375] },
+    { "name": "small", "dims": [2.875, 4.875] },
+    { "name": "medium", "dims": [5.875, 4.875] },
+    { "name": "large", "dims": [2.875, 9.875] },
+    { "name": "xlv", "dims": [5.875, 9.875] },
+    { "name": "xlh", "dims": [8.875, 4.875] }
   ]
 }
