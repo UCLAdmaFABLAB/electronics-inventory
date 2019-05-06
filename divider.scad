@@ -6,18 +6,20 @@ KERF_V = 0.006 * inch;
 WIDTH = 20* inch;
 HEIGHT = 3 * inch;
 
-TAB_HEIGHT = HEIGHT / 2;
-TAB_WIDTH = THICKNESS;
-TAB_HEIGHT_SUB = TAB_HEIGHT - KERF_V;
-TAB_WIDTH_SUB = TAB_WIDTH - KERF_H;
-COLUMNS = 8;
-ROWS = 8;
-
-
-difference() {
-  square([WIDTH, HEIGHT]);
-  for(i = [0 : ROWS]) {
-    translate([i * (WIDTH - TAB_WIDTH_SUB) / ROWS, 0])
-      square([TAB_WIDTH_SUB, TAB_HEIGHT_SUB]);
+module divider(width, height, segments = 8) {
+  tab_height = height / 2;
+  tab_width = THICKNESS;
+  tab_height_sub = tab_height - KERF_V;
+  tab_width_sub = tab_width - KERF_H;
+  difference() {
+    square([width, height]);
+    for(i = [0 : segments]) {
+      translate([i * (width - tab_width_sub) / segments, 0])
+        square([tab_width_sub, tab_height_sub]);
+    }
   }
 }
+
+divider(22 * inch, 1.5 * inch);
+translate([0, 4, 0])
+  divider(19 * inch, 1.5 * inch);
