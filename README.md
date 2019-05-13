@@ -35,6 +35,7 @@ This script accepts no command line arguments and inspects `manifest.json` to de
 - `"sizes"`
 
 **Inventory**
+
 Inventory is an array of objects with the following keys:
 
 ```
