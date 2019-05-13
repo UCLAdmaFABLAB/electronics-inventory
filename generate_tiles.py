@@ -13,7 +13,6 @@ CUT_LINE = True
 
 with open('manifest.json', 'r') as f:
      manifest = json.loads(f.read())
-     drawers = manifest['drawers']
      inventory = manifest['inventory']
      sizes = manifest['sizes']
 

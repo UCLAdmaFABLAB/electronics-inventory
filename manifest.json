@@ -1,12 +1,4 @@
 {
-  "drawers": [
-    "microcontrollers",
-    "soc",
-    "shields",
-    "components",
-    "accessories",
-    "misc"
-  ],
   "inventory": [
     {
       "title": "12V 30A 360W DC",
