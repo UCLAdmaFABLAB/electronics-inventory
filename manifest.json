@@ -13,7 +13,7 @@
       "subtitle": "Power Supply",
       "image": "./accessories/12v-30a-dc.svg",
       "type": "accessories",
-      "size": "xlh",
+      "size": "xlv",
       "quantity": 2
     },
     {
@@ -28,7 +28,7 @@
       "title": "24V 4.5A 100W DC",
       "subtitle": "Power Supply",
       "image": "./accessories/24v-4.5a-dc.svg",
-      "size": "xlv",
+      "size": "xlh",
       "type": "accessories",
       "quantity": 2
     },
@@ -235,7 +235,7 @@
       "quantity": 1
     },
     {
-      "title": "Voltage Sensor (<25V)",
+      "title": "Voltage Sensor (25V)",
       "image": "./components/voltage-sensor.svg",
       "size": "tiny",
       "type": "components",
@@ -346,7 +346,7 @@
     {
       "title": "12V Brass Solenoid Valve",
       "image": "./misc/brass-solenoid-valve.svg",
-      "size": "small",
+      "size": "medium",
       "type": "misc",
       "quantity": 1
     },
@@ -368,7 +368,7 @@
     },
     {
       "title": "Gear Kit",
-      "subtitle": "reduction + rack & pinion + belt + worm drive",
+      "subtitle": "reduction + rack/pinion + belt + worm",
       "image": "./misc/gear-kit.svg",
       "size": "small",
       "type": "misc",
@@ -391,7 +391,8 @@
       "quantity": 1
     },
     {
-      "title": "NEMA 17 Stepper Motor",
+      "title": "Stepper Motor",
+      "subtitle": "NEMA 17",
       "image": "./misc/nema17-stepper.svg",
       "size": "small",
       "type": "misc",
@@ -470,21 +471,24 @@
       "quantity": 1
     },
     {
-      "title": "Adalogger Featherwing",
+      "title": "Adalogger",
+      "subtitle": "Featherwing",
       "image": "./shields/adalogger-featherwing.svg",
       "size": "small",
       "type": "shields",
       "quantity": 2
     },
     {
-      "title": "Charliewing Featherwing",
+      "title": "Charliewing",
+      "subtitle": "Featherwing",
       "image": "./shields/charliewing-featherwing.svg",
       "size": "small",
       "type": "shields",
       "quantity": 2
     },
     {
-      "title": "DC Motor Featherwing",
+      "title": "DC Motor",
+      "subtitle": "Featherwing",
       "image": "./shields/dc-motor-featherwing.svg",
       "size": "small",
       "type": "shields",
@@ -492,6 +496,7 @@
     },
     {
       "title": "DotStar Featherwing",
+      "subtitle": "Featherwing",
       "image": "./shields/dotstar-featherwing.svg",
       "size": "small",
       "type": "shields",
@@ -513,35 +518,39 @@
       "quantity": 1
     },
     {
-      "title": "Music Maker Shield",
+      "title": "MusicMaker Shield",
       "image": "./shields/music-maker-shield.svg",
       "size": "small",
       "type": "shields",
       "quantity": 1
     },
     {
-      "title": "Music Maker Featherwing",
+      "title": "Music Maker",
+      "subtitle": "Featherwing",
       "image": "./shields/musicmaker-featherwing.svg",
       "size": "small",
       "type": "shields",
       "quantity": 3
     },
     {
-      "title": "OLED Matrix Featherwing",
+      "title": "OLED Matrix",
+      "subtitle": "Featherwing",
       "image": "./shields/oled-matrix-featherwing.svg",
       "size": "small",
       "type": "shields",
       "quantity": 2
     },
     {
-      "title": "Power Relay Featherwing",
+      "title": "Power Relay",
+      "subtitle": "Featherwing",
       "image": "./shields/power-relay-featherwing.svg",
       "size": "small",
       "type": "shields",
       "quantity": 2
     },
     {
-      "title": "PWM Servo Featherwing",
+      "title": "PWM Servo",
+      "subtitle": "Featherwing",
       "image": "./shields/pwm-servo-featherwing.svg",
       "size": "small",
       "type": "shields",
@@ -641,11 +650,11 @@
     }
   ],
   "sizes": [
-    { "name": "tiny", "dims": [2.875, 2.375] },
-    { "name": "small", "dims": [2.875, 4.875] },
-    { "name": "medium", "dims": [5.875, 4.875] },
-    { "name": "large", "dims": [2.875, 9.875] },
-    { "name": "xlv", "dims": [5.875, 9.875] },
-    { "name": "xlh", "dims": [8.875, 4.875] }
+    { "name": "tiny", "dims": [2.6, 2.2] },
+    { "name": "small", "dims": [2.6, 4.6] },
+    { "name": "medium", "dims": [5.35, 4.6] },
+    { "name": "large", "dims": [2.6, 9.3 ] },
+    { "name": "xlv", "dims": [5.35, 9.3] },
+    { "name": "xlh", "dims": [8.05, 4.6] }
   ]
 }
