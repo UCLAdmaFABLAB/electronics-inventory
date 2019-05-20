@@ -23,7 +23,7 @@
     {% for item in type.items %}
       <tr>
         <td>
-          <img src="/images{{ item.image | relative_url }}" />
+          <img src="{{ site.baseurl }}/images{{ item.image }}" />
         </td>
         <td>
           <h4>{{ item.title }}</h4>
