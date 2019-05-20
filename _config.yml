@@ -17,7 +17,7 @@ title: Fab Lab Electronics Inventory
 email: fablab@arts.ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Fab Lab Electronics Inventory
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/electronics-inventory" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
