@@ -3,7 +3,7 @@
 
 ### Overview
 
-This repository contains metadata about the items in inventory in the lab, as well as a script `generate_tiles.py` used to generate the labels/placeholders for items in the electronics cabinet. `images` contains actual-size SVG footprint drawings for each item in inventory, while `manifest.json` contains a listing of all items along with quantity and sizing details.
+This repository contains metadata about the items in inventory in the lab, as well as a script `generate_tiles.py` used to generate the labels/placeholders for items in the electronics cabinet. `images` contains actual-size SVG footprint drawings for each item in inventory, while `_data/manifest.json` contains a listing of all items along with quantity and sizing details.
 
 ### Generating Tiles
 
@@ -30,7 +30,7 @@ This script accepts no command line arguments and inspects `manifest.json` to de
 
 ### Manifest
 
-`manifest.json` is formatted in two sections:
+`manifest.json` is located in the `_data` dir. It is formatted in two sections:
 - `"inventory"`
 - `"sizes"`
 

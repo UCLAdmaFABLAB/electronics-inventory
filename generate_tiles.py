@@ -11,7 +11,7 @@ text.preamble(r'\renewcommand\familydefault{\sfdefault}')
 
 CUT_LINE = True
 
-with open('manifest.json', 'r') as f:
+with open('_data/manifest.json', 'r') as f:
      manifest = json.loads(f.read())
      inventory = manifest['inventory']
      sizes = manifest['sizes']
@@ -64,7 +64,7 @@ def generate_tile(item):
         return
 
     #72dpi is illustrator default
-    drawing = svgfile.svgfile(0, 0, 'images/%s' % image, parsed=True, resolution=72)
+    drawing = svgfile.svgfile(0, 0, 'images%s' % image, parsed=True, resolution=72)
     setEtch(drawing.canvas)
     canvas_size = get_canvas_size(item)
     drawing_size = (drawing.bbox().width(), drawing.bbox().height())

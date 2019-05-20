@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// always use mobile layout
+header, section, footer  {
+  float: none;
+  position: static;
+  width: auto;
+}
+
+
+a:hover {
+  font-weight: normal;
+  text-decoration: underline;
+}
+.inventory {
+  margin-bottom: 100px;
+  img {
+    max-height: 250px;
+  }
+  h4 {
+    margin-bottom: 0;
+  }
+  .subtitle {
+    font-weight: 300;
+  }
+}
