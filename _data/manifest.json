@@ -183,7 +183,7 @@
       "image": "/components/linear-soft-pot.svg",
       "size": "small",
       "type": "components",
-      "quantity": 3
+      "quantity": 4
     },
     {
       "title": "Low Power Timer",
@@ -323,7 +323,7 @@
       "quantity": 2
     },
     {
-      "title": "Itsy Bitsy 3V",
+      "title": "Itsy Bitsy 3V LiPo",
       "subtitle": "32u4 with ProTrinket LiPoly Backpack",
       "image": "/microcontrollers/itsy-bitsy-3v.svg",
       "size": "small",
