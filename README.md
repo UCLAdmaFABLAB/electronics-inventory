@@ -59,6 +59,7 @@ Currently supported sizes as of this writing:
 ```
 { "name": "tiny", "dims": [2.6, 2.2] },
 { "name": "small", "dims": [2.6, 4.6] },
+{ "name": "sh", "dims": [5.35, 2.2] },
 { "name": "medium", "dims": [5.35, 4.6] },
 { "name": "large", "dims": [2.6, 9.3 ] },
 { "name": "xlv", "dims": [5.35, 9.3] },

@@ -2,17 +2,17 @@
 <!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="Layer_1" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="musicmaker-featherwing.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 65.8 145"
-	 style="enable-background:new 0 0 65.8 145;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 65.8 152.1"
+	 style="enable-background:new 0 0 65.8 152.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#010101;stroke-width:0.25;stroke-miterlimit:10;}
 </style>
+<path class="st0" d="M53.3,7.6H40V0.9H25.8v6.6H12.5c-6.6,0-12,5.4-12,12v120c0,6.6,5.4,12,12,12h40.8c6.6,0,12-5.4,12-12v-120
+	C65.3,13,59.9,7.6,53.3,7.6z"/>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview194" inkscape:current-layer="Layer_1" inkscape:cx="32.42" inkscape:cy="72.74" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-maximized="0" inkscape:window-width="640" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.65555556" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
-<path id="path189" inkscape:connector-curvature="0" class="st0" d="M53.3,0.5H12.5c-6.6,0-12,5.4-12,12v120c0,6.6,5.4,12,12,12
-	h40.8c6.6,0,12-5.4,12-12v-120C65.3,5.9,59.9,0.5,53.3,0.5z"/>
-<path id="path191" inkscape:connector-curvature="0" class="st1" d="M26.4,30.1v14.4c-0.7-0.5-1.6-0.8-2.7-0.8
-	c-2.3,0-4.2,1.7-4.2,3.7c0,2,1.9,3.7,4.2,3.7s4.2-1.7,4.2-3.7V34.8l12.4-3.1v9.3c-0.7-0.5-1.7-0.8-2.7-0.8c-2.3,0-4.2,1.7-4.2,3.7
-	s1.9,3.7,4.2,3.7s4.2-1.7,4.2-3.7V26.3L26.4,30.1z"/>
+<path id="path191" inkscape:connector-curvature="0" class="st1" d="M26.4,37.1v14.4c-0.7-0.5-1.6-0.8-2.7-0.8
+	c-2.3,0-4.2,1.7-4.2,3.7c0,2,1.9,3.7,4.2,3.7s4.2-1.7,4.2-3.7V41.9l12.4-3.1v9.3c-0.7-0.5-1.7-0.8-2.7-0.8c-2.3,0-4.2,1.7-4.2,3.7
+	s1.9,3.7,4.2,3.7s4.2-1.7,4.2-3.7V33.3L26.4,37.1z"/>
 </svg>

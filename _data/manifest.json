@@ -41,6 +41,14 @@
       "quantity": 1
     },
     {
+      "title": "5V 2A AC-DC",
+      "subtitle": "Power Supply with USB Micro B",
+      "image": "/accessories/5v-2a-microb.svg",
+      "size": "xlh",
+      "type": "accessories",
+      "quantity": 3
+    },
+    {
       "title": "9V 1A AC-DC",
       "subtitle": "Power Supply",
       "image": "/accessories/9v-1a-dc.svg",
@@ -85,6 +93,29 @@
       "quantity": 1
     },
     {
+      "title": "Real Time Clock",
+      "image": "/components/real-time-clock.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "8-Channel Level Shifter",
+      "subtitle": "TXB0108",
+      "image": "/components/txb0108-level-shifter.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Temperature/Humidity Sensor",
+      "subtitle": "DHT22",
+      "image": "/components/dht22-temperature-humidity.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
       "title": "500mAh Li-Ion Poly Battery",
       "image": "/components/500mah-li-ion.svg",
       "size": "tiny",
@@ -92,8 +123,24 @@
       "quantity": 1
     },
     {
+      "title": "Buck/Boost Converter",
+      "subtitle": "Sparkfun COM-15208",
+      "image": "/components/buck-boost-converter.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
       "title": "Gate Sensor",
       "image": "/components/gate-sensor.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "Infrared Distance Sensor",
+      "subtitle": "Sharp GP2D12",
+      "image": "/components/sharp-distance-sensor.svg",
       "size": "tiny",
       "type": "components",
       "quantity": 1
@@ -134,6 +181,22 @@
       "quantity": 2
     },
     {
+      "title": "DRV8871 Motor Driver",
+      "subtitle": "H-Bridge",
+      "image": "/components/drv-8871-hbridge.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
+      "title": "DRV8880 Stepper Driver",
+      "image": "/components/drv-8880-stepper-driver.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+
+    {
       "title": "Temperature Sensor",
       "subtitle": "DS18B20",
       "image": "/components/ds18b20-digital-temperature.svg",
@@ -161,7 +224,7 @@
       "image": "/components/haptic-motor-controller.svg",
       "size": "tiny",
       "type": "components",
-      "quantity": 4
+      "quantity": 3
     },
     {
       "title": "HC-04 Ultrasonic",
@@ -245,6 +308,13 @@
       "quantity": 0
     },
     {
+      "title": "IR Obstacle Avoidance Sensor",
+      "image": "/components/ir-obstacle-avoidance.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+    {
       "title": "Slide Pot",
       "image": "/components/slide-pot.svg",
       "size": "tiny",
@@ -252,12 +322,22 @@
       "quantity": 1
     },
     {
-      "title": "Triple-Axis Accelerometer",
+      "title": "Sparkfun Triple-Axis Accelerometer",
+      "subtitle": "Sparkfun LIS331",
       "image": "/components/triple-axis-accelerometer.svg",
       "size": "tiny",
       "type": "components",
       "quantity": 1
     },
+    {
+      "title": "Adafruit Triple Axis Accelerometer",
+      "subtitle": "Adafruit MMA8451",
+      "image": "/components/adafruit-mma8451-accelerometer.svg",
+      "size": "tiny",
+      "type": "components",
+      "quantity": 1
+    },
+
     {
       "title": "Voltage Sensor (25V)",
       "image": "/components/voltage-sensor.svg",
@@ -272,6 +352,13 @@
       "size": "small",
       "type": "microcontrollers",
       "quantity": 2
+    },
+    { "title": "Adafruit Feather HUZZAH",
+      "subtitle": "ESP8366 WiFi",
+      "image": "/microcontrollers/adafruit-feather.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 1
     },
     {
       "title": "Adafruit FTDI Friend",
@@ -313,14 +400,14 @@
       "image": "/microcontrollers/arduino-pro-mini.svg",
       "size": "small",
       "type": "microcontrollers",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "title": "Arduino Uno R3",
       "image": "/soc/arduino-uno-r3.svg",
-      "size": "medium",
-      "type": "soc",
-      "quantity": 2
+      "size": "sh",
+      "type": "microcontrollers",
+      "quantity": 5
     },
     {
       "title": "Itsy Bitsy 3V LiPo",
@@ -368,11 +455,35 @@
       "quantity": 1
     },
     {
-      "title": "12V Brass Solenoid Valve",
-      "image": "/misc/brass-solenoid-valve.svg",
+      "title": "Adafruit FT232H",
+      "subtitle": "USB GPIO Chip",
+      "image": "/microcontrollers/adafruit-ft232h.svg",
+      "size": "small",
+      "type": "microcontrollers",
+      "quantity": 2
+    },
+    {
+      "title": "DC/DC Converters - Large",
+      "subtitle": "5A Max (bulk)",
+      "image": "/misc/dc-dc-converter-5a.svg",
       "size": "medium",
       "type": "misc",
       "quantity": 1
+    },
+    {
+      "title": "DC/DC Converters - Small",
+      "subtitle": "3A Max (bulk)",
+      "image": "/misc/dc-dc-converter-3a.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Rotary Encoder",
+      "image": "/misc/rotary-encoder.svg",
+      "size": "xlh",
+      "type": "misc",
+      "quantity": 2
     },
     {
       "title": "DC Motors",
@@ -415,9 +526,24 @@
       "quantity": 1
     },
     {
-      "title": "Stepper Motor",
-      "subtitle": "NEMA 17",
+      "title": "NEMA 17 Stepper Motor",
       "image": "/misc/nema17-stepper.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 2
+    },
+    {
+      "title": "NEMA 23 High Torque Stepper",
+      "subtitle": "Large",
+      "image": "/misc/nema23-stepper.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 2
+    },
+    {
+      "title": "NEMA 23 Stepper Motor",
+      "subtitle": "Small",
+      "image": "/misc/nema23-stepper.svg",
       "size": "small",
       "type": "misc",
       "quantity": 2
@@ -441,7 +567,7 @@
       "image": "/misc/solenoid-valve.svg",
       "size": "small",
       "type": "misc",
-      "quantity": 5
+      "quantity": 1
     },
     {
       "title": "Solid State Relay",
@@ -453,6 +579,21 @@
     {
       "title": "Standard Servo",
       "image": "/misc/standard-servo.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Ultra Torque Servo",
+      "image": "/misc/ultra-torque-servo.svg",
+      "size": "small",
+      "type": "misc",
+      "quantity": 1
+    },
+    {
+      "title": "Micro Servo",
+      "subtitle": "High Torque",
+      "image": "/misc/micro-servo.svg",
       "size": "small",
       "type": "misc",
       "quantity": 1
@@ -542,6 +683,13 @@
       "quantity": 1
     },
     {
+      "title": "Audio Shield",
+      "image": "/shields/audio-shield.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
+    },
+    {
       "title": "MusicMaker Shield",
       "image": "/shields/music-maker-shield.svg",
       "size": "small",
@@ -555,6 +703,14 @@
       "size": "small",
       "type": "shields",
       "quantity": 4
+    },
+    {
+      "title": "Adafruit Sound Board",
+      "subtitle": "Featherwing",
+      "image": "/shields/soundboard-featherwing.svg",
+      "size": "small",
+      "type": "shields",
+      "quantity": 1
     },
     {
       "title": "OLED Matrix",
@@ -604,9 +760,9 @@
     {
       "title": "Arduino Leonardo",
       "image": "/soc/arduino-leonardo.svg",
-      "size": "medium",
-      "type": "soc",
-      "quantity": 1
+      "size": "sh",
+      "type": "microcontrollers",
+      "quantity": 5
     },
     {
       "title": "Arduino MEGA 2560",
@@ -647,23 +803,30 @@
     {
       "title": "Raspberry Pi 1B",
       "image": "/soc/rpi-1b.svg",
-      "size": "medium",
+      "size": "lv",
+      "type": "soc",
+      "quantity": 1
+    },
+    {
+      "title": "Raspberry Pi B+",
+      "image": "/soc/rpi-bplus.svg",
+      "size": "lv",
       "type": "soc",
       "quantity": 1
     },
     {
       "title": "Raspberry Pi 2B",
       "image": "/soc/rpi-2b.svg",
-      "size": "medium",
+      "size": "lv",
       "type": "soc",
       "quantity": 1
     },
     {
-      "title": "Raspberry Pi 3",
+      "title": "Raspberry Pi 3B",
       "image": "/soc/rpi-3.svg",
-      "size": "medium",
+      "size": "lv",
       "type": "soc",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "title": "UDOO Quad",
@@ -676,8 +839,10 @@
   "sizes": [
     { "name": "tiny", "dims": [2.6, 2.2] },
     { "name": "small", "dims": [2.6, 4.6] },
+    { "name": "sh", "dims": [5.35, 2.2] },
     { "name": "medium", "dims": [5.35, 4.6] },
     { "name": "large", "dims": [2.6, 9.3 ] },
+    { "name": "lv", "dims": [5.35, 6.9] },
     { "name": "xlv", "dims": [5.35, 9.3] },
     { "name": "xlh", "dims": [8.05, 4.6] }
   ]

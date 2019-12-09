@@ -56,8 +56,9 @@ def setEtch(canvas):
         ]
 
 def generate_tile(item):
-    image = item['image']
     title = item['title']
+    print(title)
+    image = item['image']
 
     if item['quantity'] > 1:
         handle_multiple(item)
